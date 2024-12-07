@@ -1,0 +1,9 @@
+E:\Институт\C#\IceRink\IceRink\bin\Debug\IceRink.exe.config
+E:\Институт\C#\IceRink\IceRink\bin\Debug\IceRink.exe
+E:\Институт\C#\IceRink\IceRink\bin\Debug\IceRink.pdb
+E:\Институт\C#\IceRink\IceRink\obj\Debug\IceRink.csproj.AssemblyReference.cache
+E:\Институт\C#\IceRink\IceRink\obj\Debug\IceRink.Properties.Resources.resources
+E:\Институт\C#\IceRink\IceRink\obj\Debug\IceRink.csproj.GenerateResource.cache
+E:\Институт\C#\IceRink\IceRink\obj\Debug\IceRink.csproj.CoreCompileInputs.cache
+E:\Институт\C#\IceRink\IceRink\obj\Debug\IceRink.exe
+E:\Институт\C#\IceRink\IceRink\obj\Debug\IceRink.pdb

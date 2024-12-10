@@ -9,10 +9,9 @@ namespace IceRink
 {
     internal class Cloud : Item
     {
-        public int Step { get; set; }
         public Cloud(int x, int y, Color color, int size, int step) : base(x, y, color, size, step)
         {
-            Step = step;
+
         }
     }
 }

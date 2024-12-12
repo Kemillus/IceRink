@@ -9,10 +9,12 @@ namespace IceRink
 {
     internal class Snowflake : Item
     {
-        public Snowflake(int x, int y, Color color, int size, int step) : base(x, y, color, size, step)
+        public Snowflake(int x, int y, Color color, int size, int step) 
+            : base(x, y, color, size, step)
         {
 
         }
+
         public override void Draw(Graphics g)
         {
             g.FillEllipse(new SolidBrush(Color), X, Y, Size, Size);

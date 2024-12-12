@@ -10,7 +10,9 @@ namespace IceRink
     internal class House : Item
     {
         private int Stages { get; set; }
-        public House(int x, int y, Color color, int size, int stages, int step) : base(x, y, color, size, step)
+        public House(int x, int y, Color color,
+            int size, int stages, int step)
+            : base(x, y, color, size, step)
         {
             Stages = stages;
         }
@@ -29,17 +31,23 @@ namespace IceRink
                 {
                     PointF[] points = new PointF[3];
 
-                    points[0] = new PointF(X - (0.25f - 0.2f * j) * Size, Y - (0.4f + 0.2f * i) * Size);
-                    points[1] = new PointF(X - (0.35f - 0.2f * j) * Size, Y - (0.3f + 0.2f * i) * Size);
+                    points[0] = new PointF(X - (0.25f - 0.2f * j) *
+                        Size, Y - (0.4f + 0.2f * i) * Size);
+                    points[1] = new PointF(X - (0.35f - 0.2f * j) * 
+                        Size, Y - (0.3f + 0.2f * i) * Size);
 
-                    SolidBrush lightRoofBrush = new SolidBrush(Color.FromArgb(110, 210, 250));
+                    SolidBrush lightRoofBrush = new SolidBrush
+                        (Color.FromArgb(110, 210, 250));
 
-                    points[2] = new PointF(X - (0.35f - 0.2f * j) * Size, Y - (0.4f + 0.2f * i) * Size);
+                    points[2] = new PointF(X - (0.35f - 0.2f * j) *
+                        Size, Y - (0.4f + 0.2f * i) * Size);
                     g.FillPolygon(lightRoofBrush, points);
 
-                    SolidBrush darkRoofBrush = new SolidBrush(Color.FromArgb(0, 150, 200));
+                    SolidBrush darkRoofBrush = new SolidBrush
+                        (Color.FromArgb(0, 150, 200));
 
-                    points[2] = new PointF(X - (0.25f - 0.2f * j) * Size, Y - (0.3f + 0.2f * i) * Size);
+                    points[2] = new PointF(X - (0.25f - 0.2f * j) *
+                        Size, Y - (0.3f + 0.2f * i) * Size);
                     g.FillPolygon(darkRoofBrush, points);
                 }
             }

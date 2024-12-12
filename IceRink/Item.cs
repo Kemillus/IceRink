@@ -14,6 +14,7 @@ namespace IceRink
         public Color Color { get; set; }
         public int Size { get; set; }
         public int Step { get; set; }
+
         public Item(int x, int y, Color color, int size, int step)
         {
             X = x;
@@ -22,6 +23,7 @@ namespace IceRink
             Size = size;
             Step = step;
         }
+
         public virtual void Draw(Graphics g)
         {
 

@@ -14,10 +14,18 @@ namespace IceRink
     {
         private List<Tree> list = new List<Tree>();
         private List<Snowflake> snowflakes = new List<Snowflake>();
+        private List<Cloud> clouds = new List<Cloud>();
         private List<House> houses = new List<House>();
         private Timer timer;
         private Random rand = new Random();
         private Rink rink;
+        private List<Character> character = new List<Character>();
+        private Image imgCh1 = Image.FromFile
+            ("E:\\Image\\CharacterI.png");
+        private Image imgCh2 = Image.FromFile
+            ("E:\\Image\\CharacterII.png");
+        private Image imgCh3 = Image.FromFile
+            ("E:\\Image\\CharacterIII.png");
 
         public Form1()
         {
@@ -25,13 +33,16 @@ namespace IceRink
             DoubleBuffered = true;
             this.Size = new Size(700, 700);
             this.Paint += new PaintEventHandler(this.OnPaint);
-            Copy();
+            CreateObjects();
 
             timer = new Timer();
             timer.Interval = 30;
             timer.Tick += Timer_Tick;
             timer.Start();
+        }
 
+        private void CreateSnowflakes()
+        {
             Random random = new Random();
             for (int i = 0; i < 50; i++)
             {
@@ -43,6 +54,12 @@ namespace IceRink
                     random.Next(1, 5)
                 ));
             }
+        }
+        private void AddCharacter()
+        {
+            character.Add(new Character(100,400,80,3,imgCh1));
+            character.Add(new Character(400,500,50,3,imgCh2));
+            character.Add(new Character(200,600,100,3,imgCh3));
         }
 
         private void Timer_Tick(object sender, EventArgs e)
@@ -72,18 +89,33 @@ namespace IceRink
                 tree.Draw(g);
             }
             rink.Draw(g);
+            foreach(var item in character)
+            {
+                item.Draw(g);
+                item.Move(Width);
+            }
             foreach (Snowflake snowflake in snowflakes)
             {
                 snowflake.Draw(g);
             }
+            foreach(Cloud cloud in clouds)
+            {
+                cloud.Draw(g);
+            }
         }
 
-        private void Copy()
+        private void CreateObjects()
         {
+            AddCharacter();
+            CreateSnowflakes();
             houses.Add(new House(400, 250, Color.Red, 100, 4, 4));
             houses.Add(new House(300, 250, Color.Red, 100, 2, 4));
             houses.Add(new House(200, 250, Color.Red, 100, 3, 4));
-            rink = new Rink(0, 250, Color.CadetBlue, ClientSize.Width, 0);
+
+            clouds.Add(new Cloud(50, 50, Color.LightGray, 100, 5));
+            clouds.Add(new Cloud(250, 50, Color.LightGray, 80, 5));
+            clouds.Add(new Cloud(450, 50, Color.LightGray, 120, 5));
+            rink = new Rink(0, 300, Color.CadetBlue, ClientSize.Width, 0);
             int x = 0;
             for (int i = 0; i < 10; i++)
             {
@@ -96,7 +128,6 @@ namespace IceRink
                ));
                 x += 80;
             }
-
         }
     }
 }

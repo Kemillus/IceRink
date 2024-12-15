@@ -1,45 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\",
+  "WorkspaceRootPath": "D:\\Veronika\\IceRink\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|e:\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\c#\\icerink\\icerink\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|d:\\veronika\\icerink\\icerink\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|solutionrelative:icerink\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\icerink\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|solutionrelative:icerink\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\icerink\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|D:\\Veronika\\IceRink\\icerink\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|solutionrelative:icerink\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\icerink\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|solutionrelative:icerink\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|D:\\Veronika\\IceRink\\icerink\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|solutionrelative:icerink\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\icerink\\snowflake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|solutionrelative:icerink\\snowflake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\icerink\\cloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|solutionrelative:icerink\\cloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\icerink\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|solutionrelative:icerink\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\icerink\\rink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|D:\\Veronika\\IceRink\\icerink\\rink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|solutionrelative:icerink\\rink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0412\u0435\u0440\u043E\u043D\u0438\u043A\u0430\\AppData\\Local\\Temp\\843aebf5-6977-4191-a193-d30d1c507455_\u041F\u0440\u0438\u043C\u0435\u0440.zip.455\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|D:\\Veronika\\IceRink\\icerink\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|solutionrelative:icerink\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\icerink\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|solutionrelative:icerink\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|D:\\Veronika\\IceRink\\icerink\\snowflake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|solutionrelative:icerink\\snowflake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|D:\\Veronika\\IceRink\\icerink\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|solutionrelative:icerink\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|D:\\Veronika\\IceRink\\icerink\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|solutionrelative:icerink\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|D:\\Veronika\\IceRink\\icerink\\cloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5496FC-C23F-4409-8C9C-6B48CAFF118B}|IceRink\\IceRink.csproj|solutionrelative:icerink\\cloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,135 +46,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\IceRink\\Form1.cs",
+              "DocumentMoniker": "D:\\Veronika\\IceRink\\IceRink\\Form1.cs",
               "RelativeDocumentMoniker": "IceRink\\Form1.cs",
-              "ToolTip": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\IceRink\\Form1.cs",
+              "ToolTip": "D:\\Veronika\\IceRink\\IceRink\\Form1.cs",
               "RelativeToolTip": "IceRink\\Form1.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAUwHUAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwHUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T16:22:37.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Item.cs",
-              "DocumentMoniker": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\IceRink\\Item.cs",
+              "DocumentMoniker": "D:\\Veronika\\IceRink\\IceRink\\Item.cs",
               "RelativeDocumentMoniker": "IceRink\\Item.cs",
-              "ToolTip": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\IceRink\\Item.cs",
+              "ToolTip": "D:\\Veronika\\IceRink\\IceRink\\Item.cs",
               "RelativeToolTip": "IceRink\\Item.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwBIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T17:02:52.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tree.cs",
-              "DocumentMoniker": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\IceRink\\Tree.cs",
-              "RelativeDocumentMoniker": "IceRink\\Tree.cs",
-              "ToolTip": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\IceRink\\Tree.cs",
-              "RelativeToolTip": "IceRink\\Tree.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T16:55:46.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T17:02:52.696Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Snowflake.cs",
-              "DocumentMoniker": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\IceRink\\Snowflake.cs",
-              "RelativeDocumentMoniker": "IceRink\\Snowflake.cs",
-              "ToolTip": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\IceRink\\Snowflake.cs",
-              "RelativeToolTip": "IceRink\\Snowflake.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Title": "Tree.cs",
+              "DocumentMoniker": "D:\\Veronika\\IceRink\\IceRink\\Tree.cs",
+              "RelativeDocumentMoniker": "IceRink\\Tree.cs",
+              "ToolTip": "D:\\Veronika\\IceRink\\IceRink\\Tree.cs",
+              "RelativeToolTip": "IceRink\\Tree.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowD4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T17:52:23.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T16:55:46.392Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Cloud.cs",
-              "DocumentMoniker": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\IceRink\\Cloud.cs",
-              "RelativeDocumentMoniker": "IceRink\\Cloud.cs",
-              "ToolTip": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\IceRink\\Cloud.cs",
-              "RelativeToolTip": "IceRink\\Cloud.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAwAAAAMAAAAAAAAAA==",
+              "Title": "Snowflake.cs",
+              "DocumentMoniker": "D:\\Veronika\\IceRink\\IceRink\\Snowflake.cs",
+              "RelativeDocumentMoniker": "IceRink\\Snowflake.cs",
+              "ToolTip": "D:\\Veronika\\IceRink\\IceRink\\Snowflake.cs",
+              "RelativeToolTip": "IceRink\\Snowflake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T17:22:41.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Character.cs",
-              "DocumentMoniker": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\IceRink\\Character.cs",
-              "RelativeDocumentMoniker": "IceRink\\Character.cs",
-              "ToolTip": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\IceRink\\Character.cs",
-              "RelativeToolTip": "IceRink\\Character.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T17:28:22.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T17:52:23.955Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u043E\u043D\u0438\u043A\u0430\\AppData\\Local\\Temp\\843aebf5-6977-4191-a193-d30d1c507455_\u041F\u0440\u0438\u043C\u0435\u0440.zip.455\\main.cpp",
-              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u043E\u043D\u0438\u043A\u0430\\AppData\\Local\\Temp\\843aebf5-6977-4191-a193-d30d1c507455_\u041F\u0440\u0438\u043C\u0435\u0440.zip.455\\main.cpp [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
-              "ViewState": "AgIAAMMAAAAAAAAAAAAAANIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-11T16:56:54.487Z",
-              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+              "Title": "Cloud.cs",
+              "DocumentMoniker": "D:\\Veronika\\IceRink\\IceRink\\Cloud.cs",
+              "RelativeDocumentMoniker": "IceRink\\Cloud.cs",
+              "ToolTip": "D:\\Veronika\\IceRink\\IceRink\\Cloud.cs",
+              "RelativeToolTip": "IceRink\\Cloud.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:22:41.306Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "House.cs",
-              "DocumentMoniker": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\IceRink\\House.cs",
-              "RelativeDocumentMoniker": "IceRink\\House.cs",
-              "ToolTip": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\IceRink\\House.cs",
-              "RelativeToolTip": "IceRink\\House.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwDUAAAAJAAAAAAAAAA==",
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\Veronika\\IceRink\\IceRink\\Character.cs",
+              "RelativeDocumentMoniker": "IceRink\\Character.cs",
+              "ToolTip": "D:\\Veronika\\IceRink\\IceRink\\Character.cs",
+              "RelativeToolTip": "IceRink\\Character.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T17:15:49.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T17:28:22.709Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Rink.cs",
-              "DocumentMoniker": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\IceRink\\Rink.cs",
-              "RelativeDocumentMoniker": "IceRink\\Rink.cs",
-              "ToolTip": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\IceRink\\Rink.cs",
-              "RelativeToolTip": "IceRink\\Rink.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABHAAAAAAAAAA==",
+              "Title": "House.cs",
+              "DocumentMoniker": "D:\\Veronika\\IceRink\\IceRink\\House.cs",
+              "RelativeDocumentMoniker": "IceRink\\House.cs",
+              "ToolTip": "D:\\Veronika\\IceRink\\IceRink\\House.cs",
+              "RelativeToolTip": "IceRink\\House.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T16:31:49.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T17:15:49.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\IceRink\\Form1.cs",
+              "DocumentIndex": 3,
+              "Title": "Rink.cs",
+              "DocumentMoniker": "D:\\Veronika\\IceRink\\IceRink\\Rink.cs",
+              "RelativeDocumentMoniker": "IceRink\\Rink.cs",
+              "ToolTip": "D:\\Veronika\\IceRink\\IceRink\\Rink.cs",
+              "RelativeToolTip": "IceRink\\Rink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:31:49.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Veronika\\IceRink\\IceRink\\Form1.cs",
               "RelativeDocumentMoniker": "IceRink\\Form1.cs",
-              "ToolTip": "E:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\C#\\IceRink\\IceRink\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "IceRink\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "D:\\Veronika\\IceRink\\IceRink\\Form1.cs [Design]",
+              "RelativeToolTip": "IceRink\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T16:22:13.766Z"
             }

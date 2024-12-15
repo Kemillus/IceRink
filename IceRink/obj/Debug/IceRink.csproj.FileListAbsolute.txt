@@ -7,3 +7,13 @@ E:\Институт\C#\IceRink\IceRink\obj\Debug\IceRink.csproj.GenerateResource
 E:\Институт\C#\IceRink\IceRink\obj\Debug\IceRink.csproj.CoreCompileInputs.cache
 E:\Институт\C#\IceRink\IceRink\obj\Debug\IceRink.exe
 E:\Институт\C#\IceRink\IceRink\obj\Debug\IceRink.pdb
+D:\Veronika\IceRink\IceRink\bin\Debug\IceRink.exe.config
+D:\Veronika\IceRink\IceRink\bin\Debug\IceRink.exe
+D:\Veronika\IceRink\IceRink\bin\Debug\IceRink.pdb
+D:\Veronika\IceRink\IceRink\obj\Debug\IceRink.csproj.AssemblyReference.cache
+D:\Veronika\IceRink\IceRink\obj\Debug\IceRink.Form1.resources
+D:\Veronika\IceRink\IceRink\obj\Debug\IceRink.Properties.Resources.resources
+D:\Veronika\IceRink\IceRink\obj\Debug\IceRink.csproj.GenerateResource.cache
+D:\Veronika\IceRink\IceRink\obj\Debug\IceRink.csproj.CoreCompileInputs.cache
+D:\Veronika\IceRink\IceRink\obj\Debug\IceRink.exe
+D:\Veronika\IceRink\IceRink\obj\Debug\IceRink.pdb
